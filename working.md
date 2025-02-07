@@ -8,7 +8,7 @@
 2. On the right hand side of the page, find the green CODE button.
 
 3. ~~ Copy the URL under the SSH tab. For this repo, it's "git@github.com:VIBDAM1/git-tutorial.git". You will be prompted for your passphrase. ~~
-4. //use https url instead: 
+  use the https url instead: https://github.com/...
 
 5. In a new Terminal window, run
 	```bash
